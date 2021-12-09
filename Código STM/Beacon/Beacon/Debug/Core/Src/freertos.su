@@ -1,0 +1,7 @@
+freertos.c:84:6:vApplicationGetIdleTaskMemory	24	static
+freertos.c:98:6:MX_FREERTOS_Init	88	static
+freertos.c:146:6:StartDefaultTask	24	static
+freertos.c:179:6:funcProcessaDados	464	static
+freertos.c:307:9:rssi_to_meter	32	static
+freertos.c:315:6:send_x_distance	80	static
+freertos.c:355:6:send_y_distance	80	static
