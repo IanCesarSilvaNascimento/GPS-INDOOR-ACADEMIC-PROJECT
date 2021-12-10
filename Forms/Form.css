@@ -1,0 +1,13 @@
+img{
+    max-width: 100%;
+
+    max-height: 100%;
+
+    display: block;
+}
+
+.atualizaDados{
+    position: absolute;
+    left: 240px;
+    top: 163px;
+}
